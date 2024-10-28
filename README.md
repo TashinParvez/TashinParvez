@@ -2,9 +2,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tashinparvez&label=Profile%20views&color=0e75b6&style=flat" alt="tashinparvez" /> </p>
 
-- 🎓 I’m pursuing my Bachelor's Degree in Computer Science & Engineering(CSE) from [United International University](https://www.uiu.ac.bd/) in Bangladesh
-- 💻 I love to introduce myself as a competitive programmer. I love solving algorithmic challenges and participating in coding contests
-- 📫 How to reach me **tashinparvez2002@gmail.com**
+- 🎓 I’m pursuing my Bachelor's Degree in Computer Science & Engineering(CSE) from [United International University](https://www.uiu.ac.bd/) in Bangladesh.
+- 💻 I love to introduce myself as a Competitive Programmer. I love solving algorithmic challenges and participating in coding contests.
+- 📫 How to reach me **tashinparvez2002@gmail.com**.
 - 🌟 I love exploring new technologies.
 
 
