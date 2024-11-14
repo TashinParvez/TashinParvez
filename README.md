@@ -28,6 +28,27 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
 <a href="https://www.youtube.com/c/https://www.youtube.com/@tashinparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tashinparvez" height="30" width="40" /></a>
 </p>
 
+## Connect with me 🌐
+
+<p align="left">
+  <a href="mailto:tashinparvez2002@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Tashin Parvez Email" />
+  </a>
+  <a href="https://linkedin.com/in/tashinparvez" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tashin Parvez LinkedIn" />
+  </a>
+  <a href="https://fb.com/tashin.parvez.5" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Tashin Parvez Facebook" />
+  </a>
+  <a href="https://tashinparvez.hashnode.dev/" target="blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tashin Parvez Hashnode" />
+  </a>
+  <a href="https://www.youtube.com/@tashinparvez" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tashin Parvez YouTube" />
+  </a>
+</p>
+
+
 
 ## Languages and Tools ⚙🛠
 
