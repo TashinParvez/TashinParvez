@@ -21,16 +21,6 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
 ## Connect with me 🌐
 
 <p align="left">
-<a href="https://linkedin.com/in/tashinparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tashinparvez" height="30" width="40" /></a>
-<a href="https://fb.com/tashin.parvez.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tashin.parvez.5" height="30" width="40" /></a>
-<a href="https://instagram.com/tashin_parvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashin_parvez" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://tashinparvez.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://tashinparvez.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@tashinparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tashinparvez" height="30" width="40" /></a>
-</p>
-
-## Connect with me 🌐
-
-<p align="left">
   <a href="mailto:tashinparvez2002@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Tashin Parvez Email" />
   </a>
