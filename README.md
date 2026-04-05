@@ -1,28 +1,110 @@
-# Hi 👋, This is `Tashin Parvez`
+<h1 align="center">Md. Tashin Parvez</h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tashinparvez&label=Profile%20views&color=0e75b6&style=flat" alt="tashinparvez" /> </p>
+<p align="center"><strong>Product Analyst • UIU CSE Graduate • Problem Solver</strong></p>
 
-- 🎓 I’m pursuing my Bachelor's Degree in Computer Science & Engineering(CSE) from [United International University](https://www.uiu.ac.bd/) in Bangladesh.
-- 💻 I love to introduce myself as a Competitive Programmer. I love solving algorithmic challenges and participating in coding contests.
-- 📫 How to reach me **tashinparvez2002@gmail.com**.
-- 🌟 I love exploring new technologies.
-- 📚 Learning about machine learning algorithms and data science.
+<p align="center">
+  <a href="mailto:tashinparvez2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black&labelColor=white&color=black" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tashinparvez">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black&labelColor=white&color=black" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/TashinParvez">
+    <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub" />
+  </a>
+  <a href="https://codeforces.com/profile/Tashin.Parvez">
+    <img src="https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=codeforces&logoColor=black&labelColor=white&color=black" alt="Codeforces" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TashinParvez&label=Profile%20Views&color=111111&style=flat-square" alt="Profile Views" />
+</p>
+
+
+<!-- ============================== -->
+<!-- ============================== -->
+<!-- ============================== -->
+
+## 👨‍💼 About Me
+
+- 💼 **Product Analyst** @**Ontik Technology**, with a background in `Computer Science and Engineering` from [United International University](https://www.uiu.ac.bd/)
+
+- 🧩 Working on product discovery, requirement analysis, workflow design, and digital product strategy
+
+- 🚀 Interested in Product Management, Software Engineering, Competitive Programming, and AI
+
+- 🛠 Strong foundation in software engineering, DSA, competitive programming, and academic project development
+
+- 🎓 Former `Undergraduate Teaching Assistant(UGA)` at **UIU Dept of CSE**
+- 🏆 Champion / Runner-Up in multiple **UIU CSE Project Shows**
+- 📦 Built projects in product systems, academic tools, travel tech, and digital platforms
+- 💻 Active on **Codeforces, LeetCode, and CodeChef**
 
 Check the [repositories](https://github.com/TashinParvez?tab=repositories) section to see my efforts! I hope you will enjoy it!
 
+<!-- =========================== -->
+<!-- =========================== -->
+<!-- =========================== -->
 
+## 📈 Github Stats
 
-
-## Github Stats 📈
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TashinParvez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TashinParvez&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!-- =========================== -->
+<!-- =========================== -->
+<!-- =========================== -->
 
+## 🌟Featured Repositories
 
+### 🏗 Product, Systems, and Software Projects
 
-## Languages and Tools ⚙🛠
+- [**Kairos**](https://github.com/TashinParvez/Kairos)  
+  A personal growth and habit management platform focused on routines, journaling, goals, and productivity workflows.
+
+- [**DirectEdge**](https://github.com/TashinParvez/direct-edge)  
+  An agricultural supply chain and shop management platform designed for better coordination across farmers, agents, warehouses, distributors, and retailers.
+
+- [**Wayout – The Ultimate Tour Planner**](https://github.com/TashinParvez/Wayout-The-Ultimate-Tour-Planner)  
+  A travel and tour management platform for destination discovery, package booking, guide hiring, and trip coordination.
+
+- [**UIU Faculty Schedule App**](https://github.com/TashinParvez/uiu-faculty-schedule-app)  
+  A utility platform that helps students search faculty availability, class routine, and visiting hours efficiently.
+
+- [**CF-Output-Line-Counter**](https://github.com/TashinParvez/CF-Output-Line-Counter)  
+  A browser extension for Codeforces that improves debugging by showing output line numbers on hover.
+
+---
+
+### 📚 Learning and Knowledge Repositories
+
+- [**DSA_1_UIU**](https://github.com/TashinParvez/DSA_1_UIU)  
+  A structured repository for Data Structures and Algorithms I with theory, lab tasks, and problem-solving examples.
+
+- [**Data_Structure_and_Algorithms_2_UIU**](https://github.com/TashinParvez/Data_Structure_and_Algorithms_2_UIU)  
+  A continuation of DSA learning covering advanced topics from UIU coursework.
+
+- [**Artificial-Intelligence-UIU**](https://github.com/TashinParvez/Artificial-Intelligence-UIU)  
+  Coursework, assignments, and lab exercises related to artificial intelligence algorithms and methods.
+
+- [**Java_From_Zero_UIU_OOP**](https://github.com/TashinParvez/Java_From_Zero_UIU_OOP)  
+  A practical Java learning repository covering OOP concepts, problem solving, and implementation practice.
+
+- [**MySQL_From_Zero**](https://github.com/TashinParvez/MySQL_From_Zero)  
+  A beginner-friendly repository for learning MySQL and database concepts from the ground up.
+
+- [**Competitive-Programming-Journey**](https://github.com/TashinParvez/Competitive-Programming-Journey)  
+  A collection of solutions from online judges and coding practice platforms.
+
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+
+## 🛠 Languages and Tools
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
@@ -59,44 +141,24 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
   </a>
 </p>
 
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+<!-- =============================================================== -->
 
+## 🏆 Achievements
 
+- **Champion** — UIU CSE Project Show, DBMS Lab
+- **Champion** — DBMS Poster Presentation
+- **1st Runner-Up** — UIU CSE Project Show, Software Engineering Lab
+- **2nd Runner-Up** — UIU CSE Project Show, Advanced OOP Lab
+- **UIU Merit-Based Scholarship** Awarded 100% (7 times), 50% (2 times), and 25% (3 times)
+- **IEEE TENSYMP 2025 Publication** in deep learning and vehicle tracking
 
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+<!-- =============================================================== -->
 
-## Featured Repositories
-
-### 🚀 Projects
-- [**CF-Output-Line-Counter**](https://github.com/TashinParvez/CF-Output-Line-Counter)  
-  A browser extension for **Codeforces** that shows output line numbers on hover, helping users debug solutions more efficiently.
-
-- [**Smart-Cricket-Stadium**](https://github.com/TashinParvez/Smart-Cricket-Stadium)  
-  An **Arduino-based automation project** for cricket stadium management, featuring pitch covering, boundary adjustment, power-play player counting, and smart lighting control.
-
-- [**Wayout-The-Ultimate-Tour-Planner**](https://github.com/TashinParvez/Wayout-The-Ultimate-Tour-Planner)  
-  A **JavaFX tour planner** that helps users plan tours, hire guides, get updates, and participate as local guides.
-
-### 📘 Learning Repositories
-- [**DSA_1_UIU**](https://github.com/TashinParvez/DSA_1_UIU)  
-  A structured repository for **Data Structures & Algorithms I**, including theory, lab work, and problem-solving examples.
-
-- [**Data_Structure_and_Algorithms_2_UIU**](https://github.com/TashinParvez/Data_Structure_and_Algorithms_2_UIU)  
-  Covers major topics from **DSA-II**, combining course content with implementation practice.
-
-- [**Artificial-Intelligence-UIU**](https://github.com/TashinParvez/Artificial-Intelligence-UIU)  
-  Assignments and lab exercises focused on AI algorithms and techniques.
-
-- [**Java_From_Zero_UIU_OOP**](https://github.com/TashinParvez/Java_From_Zero_UIU_OOP)  
-  A repository documenting Java learning, OOP concepts, and hands-on practice.
-
-- [**MySQL_From_Zero**](https://github.com/TashinParvez/MySQL_From_Zero)  
-  A beginner-friendly repository for learning **MySQL** from the ground up.
-
-- [**Competitive-Programming-Journey**](https://github.com/TashinParvez/Competitive-Programming-Journey)  
-  A collection of competitive programming solutions from different online judges.
-
-
-
-## Connect with me 🌐
+## 🌐 Connect with me
 
 <p align="left">
   <a href="mailto:tashinparvez2002@gmail.com" target="blank">
@@ -116,10 +178,11 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
   </a>
 </p>
 
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+<!-- =============================================================== -->
 
-
-
-## Competitive Programming Profiles 👨‍💻
+## 👨‍💻 Competitive Programming Profiles
 
 <p align="left">
   <a href="https://codeforces.com/profile/tashin.parvez" target="blank">
@@ -145,10 +208,12 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
   </a>
 </p>
 
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+<!-- =============================================================== -->
 
-
---- 
+----------------
 
 <p align="center">
-  Thanks for visiting my profile | Feel free to explore my repositories and connect with me!
+  Open to professional collaboration, product conversations, and meaningful tech opportunities.
 </p>
