@@ -105,39 +105,59 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
 
 ## 🛠 Languages and Tools
 
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="34" height="34"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="34" height="34"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="34" height="34"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="34" height="34"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="34" height="34"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="34" height="34"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="34" height="34"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="34" height="34"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="34" height="34"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="34" height="34"/>
+  </a>
+  
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="34" height="34"/>
+  </a>
+  
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Google Sheets" width="34" height="34"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" width="34" height="34"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/notion/white" alt="Notion" width="34" height="34"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="34" height="34"/>
   </a>
 </p>
 
@@ -184,35 +204,34 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
 
 ## 👨‍💻 Competitive Programming Profiles
 
-<p align="left">
-  <a href="https://codeforces.com/profile/tashin.parvez" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Tashin Parvez Codeforces" />
+<p align="center">
+  <a href="https://codeforces.com/profile/tashin.parvez">
+    <img src="https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=codeforces&logoColor=black&labelColor=white&color=black" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/tashinparvez/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Tashin Parvez LeetCode" />
+  <a href="https://leetcode.com/tashinparvez/">
+    <img src="https://img.shields.io/badge/LeetCode-white?style=flat-square&logo=leetcode&logoColor=black&labelColor=white&color=black" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/tashinparvez?hr_r=1" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Tashin Parvez HackerRank" />
+  <a href="https://www.hackerrank.com/tashinparvez?hr_r=1">
+    <img src="https://img.shields.io/badge/HackerRank-white?style=flat-square&logo=hackerrank&logoColor=black&labelColor=white&color=black" alt="HackerRank" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/tashinparvez" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="Tashin Parvez GeeksforGeeks" />
+  <a href="https://auth.geeksforgeeks.org/user/tashinparvez">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-white?style=flat-square&logo=geeksforgeeks&logoColor=black&labelColor=white&color=black" alt="GeeksforGeeks" />
   </a>
-  <a href="https://www.codechef.com/users/tashin_parvez" target="blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Tashin Parvez CodeChef" />
+  <a href="https://www.codechef.com/users/tashin_parvez">
+    <img src="https://img.shields.io/badge/CodeChef-white?style=flat-square&logo=codechef&logoColor=black&labelColor=white&color=black" alt="CodeChef" />
   </a>
-  <a href="https://www.topcoder.com/members/tashinparvez" target="blank">
-    <img src="https://img.shields.io/badge/TopCoder-1F8ACB?style=for-the-badge&logo=TopCoder&logoColor=white" alt="Tashin Parvez TopCoder" />
+  <a href="https://www.topcoder.com/members/tashinparvez">
+    <img src="https://img.shields.io/badge/TopCoder-white?style=flat-square&logo=topcoder&logoColor=black&labelColor=white&color=black" alt="TopCoder" />
   </a>
-  <a href="https://www.hackerearth.com/@tashinparvez2002" target="blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" alt="Tashin Parvez HackerEarth" />
+  <a href="https://www.hackerearth.com/@tashinparvez2002">
+    <img src="https://img.shields.io/badge/HackerEarth-white?style=flat-square&logo=hackerearth&logoColor=black&labelColor=white&color=black" alt="HackerEarth" />
   </a>
 </p>
 
-<!-- =============================================================== -->
-<!-- =============================================================== -->
-<!-- =============================================================== -->
 
-----------------
+<!-- =============================================================== -->
+<!-- =============================================================== -->
+<!-- =============================================================== -->
 
 <p align="center">
   Open to professional collaboration, product conversations, and meaningful tech opportunities.
