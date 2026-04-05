@@ -171,7 +171,7 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
 - **Champion** — DBMS Poster Presentation
 - **1st Runner-Up** — UIU CSE Project Show, Software Engineering Lab
 - **2nd Runner-Up** — UIU CSE Project Show, Advanced OOP Lab
-- **UIU Merit-Based Scholarship** Awarded 100% (7 times), 50% (2 times), and 25% (3 times)
+- **UIU Merit-Based Scholarship** — Awarded 100% (7×), 50% (2×), and 25% (3×)
 - **IEEE TENSYMP 2025 Publication** in deep learning and vehicle tracking
 
 <!-- =============================================================== -->
