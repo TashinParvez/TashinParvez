@@ -23,24 +23,76 @@ Check the [repositories](https://github.com/TashinParvez?tab=repositories) secti
 
 
 ## Languages and Tools ⚙🛠
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
 
+## Featured Repositories
 
-## Personal Projects or Portfolio 🚀
-
+### 🚀 Projects
 - [**CF-Output-Line-Counter**](https://github.com/TashinParvez/CF-Output-Line-Counter)  
-    A browser extension that enhances your experience on **Codeforces**. It shows output line numbers when hovering over output fields, making it easier to track and debug your solutions.
-- [**Smart Cricket Stadium**](https://github.com/TashinParvez/Smart-Cricket-Stadium)  
-   An Arduino-based project designed to automate a cricket stadium's systems. It includes an automated pitch-covering system, boundary line adjustments, player count for power play, and light brightness control based on sunlight using various sensors like LDR, IR, and stepper motors.
-- [**WayOut - The Ultimate Tour Planner**](https://github.com/TashinParvez/Wayout-The-Ultimate-Tour-Planner)  
-   A JavaFX-based tour planner application that simplifies travel planning. It allows users to book local tours, hire guides, get tour updates, and even become a local guide to earn money.
+  A browser extension for **Codeforces** that shows output line numbers on hover, helping users debug solutions more efficiently.
 
-Feel free to explore these projects and give feedback!
+- [**Smart-Cricket-Stadium**](https://github.com/TashinParvez/Smart-Cricket-Stadium)  
+  An **Arduino-based automation project** for cricket stadium management, featuring pitch covering, boundary adjustment, power-play player counting, and smart lighting control.
 
+- [**Wayout-The-Ultimate-Tour-Planner**](https://github.com/TashinParvez/Wayout-The-Ultimate-Tour-Planner)  
+  A **JavaFX tour planner** that helps users plan tours, hire guides, get updates, and participate as local guides.
+
+### 📘 Learning Repositories
+- [**DSA_1_UIU**](https://github.com/TashinParvez/DSA_1_UIU)  
+  A structured repository for **Data Structures & Algorithms I**, including theory, lab work, and problem-solving examples.
+
+- [**Data_Structure_and_Algorithms_2_UIU**](https://github.com/TashinParvez/Data_Structure_and_Algorithms_2_UIU)  
+  Covers major topics from **DSA-II**, combining course content with implementation practice.
+
+- [**Artificial-Intelligence-UIU**](https://github.com/TashinParvez/Artificial-Intelligence-UIU)  
+  Assignments and lab exercises focused on AI algorithms and techniques.
+
+- [**Java_From_Zero_UIU_OOP**](https://github.com/TashinParvez/Java_From_Zero_UIU_OOP)  
+  A repository documenting Java learning, OOP concepts, and hands-on practice.
+
+- [**MySQL_From_Zero**](https://github.com/TashinParvez/MySQL_From_Zero)  
+  A beginner-friendly repository for learning **MySQL** from the ground up.
+
+- [**Competitive-Programming-Journey**](https://github.com/TashinParvez/Competitive-Programming-Journey)  
+  A collection of competitive programming solutions from different online judges.
 
 
 
@@ -91,4 +143,12 @@ Feel free to explore these projects and give feedback!
   <a href="https://www.hackerearth.com/@tashinparvez2002" target="blank">
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" alt="Tashin Parvez HackerEarth" />
   </a>
+</p>
+
+
+
+--- 
+
+<p align="center">
+  Thanks for visiting my profile | Feel free to explore my repositories and connect with me!
 </p>
